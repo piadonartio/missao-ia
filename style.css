@@ -1,7 +1,7 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lilita+One&display=swap');
-</style>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gantari:ital,wght@0,100..900;1,100..900&family=Jersey+25&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lilita+One&display=swap');
+:root{
+    --fonte-titulo:'Jersey+25';
+    --fonte-texto:'Gantari';
+}
