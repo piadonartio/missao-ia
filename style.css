@@ -1,7 +1,21 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Jersey+25&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lilita+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gantari:ital,wght@0,100..900;1,100..900&family=Jersey+25&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lilita+One&display=swap');
+
 :root{
     --fonte-titulo:'Jersey+25';
     --fonte-texto:'Gantari';
+    --cor-principal: #b0e6fa; 
+    --cor-secundaria: #3e7b94;
+    --cor-destaque: #0027b5;
+    --cor-texto: #00113c;
+}
+body{
+    background-color: var(--cor-principal);
+    color: var(--cor-texto);
+    font-family: var(--fonte-texto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
