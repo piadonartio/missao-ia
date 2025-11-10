@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-    enunciado:"A inserção de dispositivos digitais e telas (como smartphones, tablets e televisões) na rotina de crianças em idade pré-escolar e escolar é um fenômeno global que suscita preocupações e oportunidades. Considerando o desenvolvimento infantil integral, qual dos dilemas a seguir melhor representa os impactos divergentes do uso de telas?",
+    enunciado:"A adoção dos veículos elétricos é catalisada por uma série estratégica de incentivos fiscais e regulatórios, reconhecendo seu valor público.",
     alternativas:[
         {
             texto: "A transição para a mobilidade elétrica representa um imperativo ecológico e um salto de qualidade de vida urbana.",
