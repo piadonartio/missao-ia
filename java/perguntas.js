@@ -38,8 +38,8 @@ export const perguntas = [
     ]
 },
 {
-    enunciado:
-    alternativas:[
+    enunciado:Por que o carro elétrico representa a escolha mais inteligente e responsável para a mobilidade do futuro?
+    alternativas:[O VE é a solução definitiva para o desafio da poluição local. Ao operar com emissões zero pelo escapamento, ele contribui diretamente para a purificação do ar
         {
             texto:
             afirmacao:[
